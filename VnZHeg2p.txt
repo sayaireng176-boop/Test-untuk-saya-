@@ -2969,4 +2969,3 @@ end wait() if script.Parent.ClassName == "HopperBin" then
 	makeParts("RightHolster")
 	script.Parent.Selected:connect(onSelected)
 	script.Parent.Deselected:connect(onDeselected)
-end
